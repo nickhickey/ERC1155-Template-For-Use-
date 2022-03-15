@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: MIT
+// Author: Nicholas Hickey
 
 pragma solidity ^0.8.7;
 
